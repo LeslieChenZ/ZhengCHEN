@@ -15,3 +15,5 @@
   * https://heyrim.github.io/ with [source](https://github.com/heyrim/heyrim.github.io)
   * https://ytchow.github.io/ with [source](https://github.com/ytchow/ytchow.github.io)
   * https://jingweihu-math.github.io/webpage/ with [source](https://github.com/JingweiHu-Math/webpage)
+  
+* A good template [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
