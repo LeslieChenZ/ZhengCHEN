@@ -17,3 +17,4 @@
   * https://jingweihu-math.github.io/webpage/ with [source](https://github.com/JingweiHu-Math/webpage)
   
 * A good template [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
+  * [A quick start guide] (https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
